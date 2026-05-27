@@ -29,10 +29,11 @@ A web application that helps users find every book in a series in the correct re
 
 ## Project Structure
 
+```text
 Series-Finder/
-│
 ├── books.html
-├── README.md
+└── README.md
+```
 
 ## Usage
 
