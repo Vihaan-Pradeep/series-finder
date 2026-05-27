@@ -2,6 +2,8 @@
 
 A web application that helps users find every book in a series in the correct reading order. Built with vanilla JavaScript and the Open Library API, it provides cover art, book counts, and automatic sorting to make discovering and reading series easier.
 
+**Live Site:** [Series Finder](https://vihaan-pradeep.github.io/series-finder/books.html)
+
 ## Features
 
 - Search for book series by name
